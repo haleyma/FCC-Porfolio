@@ -134,16 +134,16 @@
 
 
   background-repeat: no repeat;
-  /*background-attachment: fixed;*/
+  background-attachment: fixed;
 }
 
 #portfolioWords {
-  background-color:#fdfdfd;
+  
   font-weight: bold;
-  opacity: 0.4;
+  
   padding-bottom: 50px;
   margin-top: -30px;
-    
+  color: yellow;  
   
 }
 
