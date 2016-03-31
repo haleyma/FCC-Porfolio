@@ -87,7 +87,7 @@
  .fixed-home {
     width: 100%;
     height:700px;
-    background-image: url('https://dl.dropboxusercontent.com/s/8za0i8ldsuxmzqk/lightbulb.jpg?dl=0');
+    background-image: url('../images/lightbulb.jpg');
     background-size: cover;
 
     margin-top: 0px;
@@ -104,7 +104,7 @@
  .fixed-about {
    width: 100%;
    height: 700px;
-   background-image: url('https://dl.dropboxusercontent.com/s/jrseklccfgvk96v/aboutCoffee.jpg?dl=0');
+   background-image: url('../images/aboutCoffee.jpg');
    background-size: cover;
 
 
@@ -127,7 +127,7 @@
 }
 
 .fixed-portfolio {
-  background-image: url('https://dl.dropboxusercontent.com/s/x9gsdu197prchb3/PortfolioWisteria2.jpg?dl=0');
+  background-image: url('../images/PortfolioWisteria3.jpg');
   height: auto;
   width: 100%;
   text-align: centered;
@@ -143,7 +143,7 @@
   
   padding-bottom: 50px;
   margin-top: -30px;
-  color: yellow;  
+  color: gray;  
   
 }
 
@@ -165,7 +165,7 @@
 
 
 #randomQuote {
-  background-image: url("https://dl.dropboxusercontent.com/s/3has4l0l3dec24j/hand3.jpg?dl=0");
+  background-image: url("../images/hand3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -175,31 +175,31 @@
 }*/
 
 #calculator {
-  background-image: url("https://dl.dropboxusercontent.com/s/kpfernv54xv72zd/Calculator.jpg?dl=0");
+  background-image: url("../images/Calculator.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #pomodoro {
-  background-image: url("https://dl.dropboxusercontent.com/s/pgf9pl1ss56rx5k/pomodoro.jpg?dl=0");
+  background-image: url("../images/pomodoro.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #weather{
-  background-image: url("https://dl.dropboxusercontent.com/s/768ime8lmuy959p/weather.jpg?dl=0");
+  background-image: url("../images/weather.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #tictac {
-  background-image: url("https://dl.dropboxusercontent.com/s/kd7mhz71o6f7zk1/tictactoe.jpg?dl=0");
+  background-image: url("../images/tictactoe.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #simon {
- background-image: url("https://dl.dropboxusercontent.com/s/got8le7ofsnv6wl/Classic-Simon-Game.jpg?dl=0");
+ background-image: url("../images/Classic-Simon-Game.jpg");
   background-repeat: no-repeat;
   background-size: cover; 
 }
@@ -208,7 +208,7 @@
 
 
 .fixed-contact {
-   background-image: url('https://dl.dropboxusercontent.com/s/2rilqvmhczwtm67/ContactBench3.jpg?dl=0');
+   background-image: url('../images/ContactBench3.jpg');
    height: 200px;
    width: auto;
 
